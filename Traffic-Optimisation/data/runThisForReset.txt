@@ -1,0 +1,2 @@
+# To delete
+rm ../data/quickstart.net.xml ../data/quickstart.rou.alt.xml ../data/quickstart.rou.xml ../data/trips.trips.xml
